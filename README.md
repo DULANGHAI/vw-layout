@@ -1,6 +1,7 @@
 # vw-layout
 
 > vw-layout
+移动端模版，UI组件需要自己添加
 
 ## Build Setup
 

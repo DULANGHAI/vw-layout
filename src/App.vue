@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <banner />
-    <!-- <grid />
+    <grid />
     <block />
-    <list /> -->
+    <list />
   </div>
 </template>
 

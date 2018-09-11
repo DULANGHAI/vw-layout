@@ -1,11 +1,11 @@
 <template>
   <div class="container" flexcontainer> 
-    <!-- <div class="banner" w-750-235 aspectratio aspect-ratio="750/235"> 
+    <div class="banner" w-750-235 aspectratio aspect-ratio="750/235"> 
      <div aspectratio-content> 
       <img src="//gw.alicdn.com/imgextra/i1/82/TB2M_c0jmB0XKJjSZFsXXaxfpXa_!!82-0-luban.jpg_q50.jpg" alt="" width="100%" height="100%"> 
      </div>
-    </div>  -->
-    <input type="file" accept="image/*" name="" value="" >
+    </div> 
+    <!-- <input type="file" accept="image/*" name="" value="" > -->
    </div>
 </template>
 
